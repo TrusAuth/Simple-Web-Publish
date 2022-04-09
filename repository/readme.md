@@ -73,12 +73,12 @@ Discription: Online Certificate Status Procotol (OCSP) policy<br>
 Discription: X.509 Certificate Extensions
 
 #### union-verify-list(50)
-Discription: TrusAuth Union Verify List Extension
+Discription: TrusAuth Union Verify (UV) List Extension
 
 ### certificate-categories(3)
 
 #### id-card-verify(100)
-Discription: TrusAuth ID Card Verify Extended Key Usage (EKU)
+Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)
 
 ### union-verify(250)
-Discription: TrusAuth Union Verify Objects
+Discription: TrusAuth Union Verify (UV) Objects
