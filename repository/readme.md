@@ -7,6 +7,10 @@ Private Enterprise Number (PEN) is: `58723`
 
 Root OID number is: `1.3.6.1.4.1.58723`
 
+This page is used to publish the information of OIDs distribution and the detail of OIDs.
+
+Latest: 04/08/2022
+
 ## Distribution
 
 - trusauth-inc(0)
