@@ -1,4 +1,4 @@
-# TrusAuth OIDs Distribution Adminstration
+# TrusAuth OID Distribution Adminstration and CP Page and CP Page
 <!--
 IANA REQUEST-99711
 IANA MODIFY-11368
@@ -7,9 +7,9 @@ Private Enterprise Number (PEN) is: `58723`
 
 Root OID number is: `1.3.6.1.4.1.58723`
 
-This page is used to publish the information of OIDs distribution and the detail of OIDs.
+This page is used to publish the information of OID distribution and the details of OID.
 
-Latest: 04/08/2022
+Latest: 04/09/2022 UTC
 
 ## Distribution
 
@@ -40,11 +40,11 @@ Latest: 04/08/2022
 ## Information
 ### certificate-policies(1)
 Discription: TrusAuth Certificate Policies (CP) and Certification Practice Statement (CPS)<br>
-Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 #### extended-validation(1)
 Discription: Extended Validation (EV) <br>
-Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 ##### SSL(1)
 Discription: Secure Sockets Layer (SSL) Extended Validation (EV) policy<br>
@@ -54,18 +54,19 @@ Discription: Code signing Extended Validation (EV) policy<br>
 
 #### organization-validation(2)
 Discription: Organization Validation (OV) policy<br>
-Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 #### domain-validation(3)
 Discription: Domain Validation (DV) policy<br>
-Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 #### individual-validation(4)
 Discription: Individual Validation (IV) policy<br>
-Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 #### intranet-validation(20)
 Discription: Intranet Validation (INV) policy<br>
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 #### test-unverified(30)
 Discription: Unverified certificate policy<br>
@@ -80,9 +81,14 @@ Discription: X.509 Certificate Extensions
 Discription: TrusAuth Union Verify (UV) List Extension
 
 ### certificate-categories(3)
+Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)
 
 #### id-card-verify(100)
 Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)
+Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
 
 ### union-verify(250)
 Discription: TrusAuth Union Verify (UV) Objects
+
+## CP and CPS
+TrusAuth is committed to protecting the data security of users. On this page, you will see our CP and CPS statement.
