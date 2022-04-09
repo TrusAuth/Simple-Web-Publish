@@ -3,11 +3,13 @@
 IANA REQUEST-99711
 IANA MODIFY-11368
 -->
-Private Enterprise Number (PEN) is: `58723`
+Document Version: 1.0
+
+IANA Private Enterprise Number (PEN) is: `58723`
 
 Root OID number is: `1.3.6.1.4.1.58723`
 
-This page is used to publish the information of OID distribution and the details of OID, Also used for PKI like CP and CPS information.
+This page is used to publish the information about OID distribution and the details of OID, Also used for PKI like CP and CPS information.
 
 Latest: 04/09/2022 UTC
 
@@ -108,5 +110,8 @@ Discription: TrusAuth Union Verify (UV) Private key hash
 #### timestamp(4)
 Discription: TrusAuth Union Verify (UV) timestamp
 
-## CP and CPS
-TrusAuth is committed to protecting the data security of users. On this page, you will see our CP and CPS statement.
+## PKI Information
+TrusAuth is committed to protecting the data security of users. On this page, you will see our Certificate Policy (CP) and Certificate P Statement (CPS).
+
+### CP and CPS
+
