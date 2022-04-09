@@ -15,9 +15,10 @@ Root OID number is: `1.3.6.1.4.1.58723`
     - CodeSigning(2)
   - organization-validation(2)
   - domain-validation(3)
+  - individual-validation(4)
   - codesigning(10)
   - intranet-validation(20)
-  - unvalidation-test(30)
+  - test-unverified(30)
   - ocsp(50)
 - certificate-extensions(2)
   - union-verify-list(50)
@@ -45,6 +46,27 @@ Discription: Secure Sockets Layer (SSL) Extended Validation (EV) policy<br>
 
 ##### CodeSigning(2)
 Discription: Code signing Extended Validation (EV) policy<br>
+
+#### organization-validation(2)
+Discription: Organization Validation (OV) policy<br>
+Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+
+#### domain-validation(3)
+Discription: Domain Validation (DV) policy<br>
+Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+
+#### individual-validation(4)
+Discription: Individual Validation (IV) policy<br>
+Information: See [TrusAuth CP and CPS Page](http://www.trusauth.com/repository/)
+
+#### intranet-validation(20)
+Discription: Intranet Validation (INV) policy<br>
+
+#### test-unverified(30)
+Discription: Unverified certificate policy<br>
+
+#### ocsp(50)
+Discription: Online Certificate Status Procotol (OCSP) policy<br>
 
 ### certificate-extensions(2)
 Discription: X.509 Certificate Extensions
