@@ -42,11 +42,11 @@ Latest: 04/09/2022 UTC
 ## OID Information
 ### certificate-policies(1)
 Discription: TrusAuth Certificate Policies (CP) and Certification Practice Statement (CPS)<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### extended-validation(1)
 Discription: Extended Validation (EV) <br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 ##### SSL(1)
 Discription: Secure Sockets Layer (SSL) Extended Validation (EV) policy<br>
@@ -56,19 +56,19 @@ Discription: Code signing Extended Validation (EV) policy<br>
 
 #### organization-validation(2)
 Discription: Organization Validation (OV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### domain-validation(3)
 Discription: Domain Validation (DV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### individual-validation(4)
 Discription: Individual Validation (IV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### intranet-validation(20)
 Discription: Intranet Validation (INV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### test-unverified(30)
 Discription: Unverified certificate policy<br>
@@ -77,41 +77,41 @@ Discription: Unverified certificate policy<br>
 Discription: Online Certificate Status Procotol (OCSP) policy<br>
 
 ### certificate-extensions(2)
-Discription: X.509 Certificate Extensions
+Discription: X.509 Certificate Extensions<br>
 
 #### union-verify-list(50)
-Discription: TrusAuth Union Verify (UV) List Extension
+Discription: TrusAuth Union Verify (UV) List Extension<br>
 
 ### certificate-categories(3)
-Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)
+Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)<br>
 
 #### id-card-verify(100)
-Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)
+Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)<br>
+Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 ### union-verify(250)
-Discription: TrusAuth Union Verify (UV) Objects
+Discription: TrusAuth Union Verify (UV) Objects<br>
 
 #### version(1)
-Discription: TrusAuth Union Verify (UV) version
+Discription: TrusAuth Union Verify (UV) version<br>
 
 #### subject(2)
-Discription: TrusAuth Union Verify (UV) subject
+Discription: TrusAuth Union Verify (UV) subject<br>
 
 #### provider(3)
-Discription: TrusAuth Union Verify (UV) provider
+Discription: TrusAuth Union Verify (UV) provider<br>
 
 ##### pub-key-hash(1)
-Discription: TrusAuth Union Verify (UV) public key hash
+Discription: TrusAuth Union Verify (UV) public key hash<br>
 
 ##### priv-key-hash(2)
-Discription: TrusAuth Union Verify (UV) Private key hash
+Discription: TrusAuth Union Verify (UV) Private key hash<br>
 
 #### timestamp(4)
-Discription: TrusAuth Union Verify (UV) timestamp
+Discription: TrusAuth Union Verify (UV) timestamp<br>
 
 ## PKI Information
-TrusAuth is committed to protecting the data security of users. On this page, you will see our Certificate Policy (CP) and Certificate P Statement (CPS).
+TrusAuth is committed to protecting the data security of users. On this page, you will see our Certificate Policy (CP) and Certificate P Statement (CPS).<br>
 
 ### CP and CPS
 
