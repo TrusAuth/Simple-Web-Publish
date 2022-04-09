@@ -9,6 +9,7 @@ Root OID number is: `1.3.6.1.4.1.58723`
 
 ## Distribution
 
+- trusauth-inc(0)
 - certificate-policies(1)
   - extended-validation(1)
     - SSL(1)
