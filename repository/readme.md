@@ -1,4 +1,4 @@
-# TrusAuth OID Distribution Adminstration and CP Page and CP Page
+# TrusAuth OID & CP & CPS Adminstration Page
 <!--
 IANA REQUEST-99711
 IANA MODIFY-11368
@@ -11,7 +11,7 @@ This page is used to publish the information of OID distribution and the details
 
 Latest: 04/09/2022 UTC
 
-## Distribution
+## OID Distribution
 
 - trusauth-inc(0)
 - certificate-policies(1)
@@ -37,7 +37,7 @@ Latest: 04/09/2022 UTC
     - priv-key-hash(2)
   - timestamp(4)
 
-## Information
+## OID Information
 ### certificate-policies(1)
 Discription: TrusAuth Certificate Policies (CP) and Certification Practice Statement (CPS)<br>
 Information: See [TrusAuth OID Distribution Adminstration and CP Page](http://www.trusauth.com/repository/)
