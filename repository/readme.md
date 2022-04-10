@@ -111,7 +111,7 @@ Discription: TrusAuth Union Verify (UV) Private key hash<br>
 Discription: TrusAuth Union Verify (UV) timestamp<br>
 
 ## PKI Information
-TrusAuth is committed to protecting the data security of users. On this page, you will see our Certificate Policy (CP) and Certificate P Statement (CPS).<br>
+TrusAuth is committed to protecting the data security of users. On this page, you will see our Certificate Policy (CP) and Certificate Practice Statement (CPS).<br>
 
 ### CP and CPS
 
