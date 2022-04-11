@@ -42,11 +42,11 @@ Latest: 04/09/2022 UTC
 ## OID Information
 ### certificate-policies(1)
 Discription: TrusAuth Certificate Policies (CP) and Certification Practice Statement (CPS)<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### extended-validation(1)
 Discription: Extended Validation (EV) <br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 ##### SSL(1)
 Discription: Secure Sockets Layer (SSL) Extended Validation (EV) policy<br>
@@ -56,19 +56,19 @@ Discription: Code signing Extended Validation (EV) policy<br>
 
 #### organization-validation(2)
 Discription: Organization Validation (OV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### domain-validation(3)
 Discription: Domain Validation (DV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### individual-validation(4)
 Discription: Individual Validation (IV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### intranet-validation(20)
 Discription: Intranet Validation (INV) policy<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 #### test-unverified(30)
 Discription: Unverified certificate policy<br>
@@ -87,7 +87,7 @@ Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)<br>
 
 #### id-card-verify(100)
 Discription: TrusAuth ID Card Verify (IDCV) Extended Key Usage (EKU)<br>
-Information: See [TrusAuth OID and PKI Adminstration Page](http://www.trusauth.com/repository/)<br>
+Information: See [TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page](http://www.trusauth.com/repository/)<br>
 
 ### union-verify(250)
 Discription: TrusAuth Union Verify (UV) Objects<br>
