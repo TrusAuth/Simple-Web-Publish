@@ -1,4 +1,4 @@
-# TrusAuth OID and PKI Adminstration Page
+# TrusAuth OID and Public-Key Infrastructure (PKI) Adminstration Page
 <!--
 IANA REQUEST-99711
 IANA MODIFY-11368
